@@ -342,3 +342,22 @@ textarea{
 footer .social-links a{
     margin-right: 20px;
 }
+
+.hidden{
+    display: none;
+}
+
+@media screen and (max-width: 576px) {
+    .skill-items{
+        flex-direction: column;
+    }
+    .skill-item{
+        width: 100%;
+    }
+    .skills .section-description{
+        padding: 0;
+    }
+    .skills{
+        margin: 0 10px 20px 10px;
+    }
+}
