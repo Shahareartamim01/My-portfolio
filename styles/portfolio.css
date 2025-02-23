@@ -394,4 +394,48 @@ footer .social-links a{
     .about-item{
         margin: 10px;
     }
+    .header{
+        height: fit-content;
+        background-image: none;
+    }
+    .banner{
+        flex-direction: column-reverse;
+        margin: 20px;
+    }
+    .banner .banner-description{
+        width: 100%;
+    }
+    .banner-button{
+        flex-direction: column;
+    }
+    .banner-btn{
+        width: 100%;
+        justify-content: center;
+        margin-bottom: 10px;
+    }
+    .banner-profile-pic{
+        width: 100%;
+        bottom: -50px;
+        left: 15px;
+    }
+    nav{
+        flex-direction: column;
+    }
+    .nav-title{
+        margin-bottom: 20px;
+    }
+    nav ul{
+        width: 100%;
+        justify-content: center;
+    }
+    .btn-primary{
+        width: 150px;
+    }
+    .download-btn, .contact-btn{
+        width: 100%;
+    }
+    .resume-download-btn{
+        width: 250px;
+        margin: auto;
+    }
 }
