@@ -367,6 +367,9 @@ footer .social-links a{
     .resume-column-title{
         text-align: center ;
     }
+    .resume .section-title{
+        padding: 0 20px;
+    }
     footer{
         flex-direction: column;
         padding-right: 20px;
