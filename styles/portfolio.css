@@ -437,5 +437,6 @@ footer .social-links a{
     .resume-download-btn{
         width: 250px;
         margin: auto;
+        margin-bottom: 20px;
     }
 }
