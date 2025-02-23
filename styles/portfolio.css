@@ -429,13 +429,13 @@ footer .social-links a{
         justify-content: center;
     }
     .btn-primary{
-        width: 150px;
+        width: 150%;
     }
     .download-btn, .contact-btn{
         width: 100%;
     }
     .resume-download-btn{
-        width: 250px;
+        width: 90%;
         margin: auto;
         margin-bottom: 20px;
     }
