@@ -383,4 +383,15 @@ footer .social-links a{
     form{
         text-align: center;
     }
+    .about{
+        padding: 20px;
+        margin: 20px;
+    }
+    .about-items{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .about-item{
+        margin: 10px;
+    }
 }
