@@ -439,4 +439,7 @@ footer .social-links a{
         margin: auto;
         margin-bottom: 20px;
     }
+    input[type="submit"]{
+        width: 40%;
+    }
 }
